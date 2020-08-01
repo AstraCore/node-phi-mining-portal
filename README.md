@@ -1,1 +1,1 @@
-Phi  Stratum Mining Portal Modified by 216k155
+Phi  Stratum Mining Portal
